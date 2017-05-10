@@ -1,0 +1,4 @@
+domain/PersonDomainModel.class
+util/HibernateUtil.class
+util/LocalDateAdapter.class
+base/PersonDAL.class
